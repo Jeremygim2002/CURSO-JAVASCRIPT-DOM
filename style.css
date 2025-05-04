@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: rgb(71, 71, 87);
+    font-family: 'quicksand', sans-serif;
+}
+
+
+h1 {
+    color: white;
+}
